@@ -1,6 +1,6 @@
 # GMacros
 
-*GMacros* is a collection of slash commands, some of which use CleverMacro's recreation of WoW 2.0 syntax. CleverMacro is a required dependency. These commands and conditionals are not valid in retail WoW. Many of the slash commands do not use WoW conditionals and have nothing to do with CleverMacro, so this is not strictly a CleverMacro extension, but also a collection of macros that I like to use, turned into slash commands.
+*GMacros* is a collection of slash commands, some of which use CleverMacro's recreation of WoW 2.0 syntax. CleverMacro is a required dependency. These commands and conditionals are not valid in retail WoW. Many of the slash commands have nothing to do with CleverMacro, so this is not strictly a CleverMacro extension, but also a collection of macros that I like to use, turned into slash commands.
 
 ### Current features
 
@@ -106,5 +106,4 @@ conditional that evaluates according to distance from target
 #showtooltip
 /cast [distance:one] Wing Clip; Concussive Shot
 /cast [dist:1] Wing Clip; Concussive Shot
-/cast [dist:4] Concussive Shot; Wing Clip
 ```
