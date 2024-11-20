@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: |cFFFFFFFFGMacros|r|cFF00FF00 v1.0|r
+## Author: Gunjak
+## Notes: Adds extra slash commands for use in macros.
+## Version: 1.2
+## RequiredDeps: CleverMacro
+## SavedVariables:
+## SavedVariablesPerCharacter: GMacrosTogglePetAttack, GMacrosPetFood, GMacrosSafeTarget
+GMacros.lua
