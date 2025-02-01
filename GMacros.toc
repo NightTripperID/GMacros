@@ -3,7 +3,8 @@
 ## Author: Gunjak
 ## Notes: Adds extra slash commands for use in macros.
 ## Version: 1.2
+## OptionalDeps: ActionBarProfiles
 ## RequiredDeps: CleverMacro
 ## SavedVariables:
-## SavedVariablesPerCharacter: GMacrosTogglePetAttack, GMacrosPetFood, GMacrosSafeTarget
+## SavedVariablesPerCharacter: GMacrosDB
 GMacros.lua

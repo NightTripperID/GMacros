@@ -105,5 +105,9 @@ conditional that evaluates according to distance from target
 ```
 #showtooltip
 /cast [distance:one] Wing Clip; Concussive Shot
+```
+or
+```
+#showtooltip
 /cast [dist:1] Wing Clip; Concussive Shot
 ```
